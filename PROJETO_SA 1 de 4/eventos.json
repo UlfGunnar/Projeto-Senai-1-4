@@ -1,0 +1,1032 @@
+{
+    "eventos_lista": [
+        [
+            "Conferência de Tecnologia 2025",
+            "Shanghai, China",
+            "01/12/2025"
+        ],
+        [
+            "Encontro Anual de Empreendedores",
+            "Guangzhou, China",
+            "03/12/2025"
+        ],
+        [
+            "Feira Internacional de Startups",
+            "Shenzhen, China",
+            "04/12/2025"
+        ],
+        [
+            "Simpósio de Inteligência Artificial",
+            "Tokyo, Japan",
+            "05/12/2025"
+        ],
+        [
+            "Hackathon Global de Programação",
+            "Osaka, Japan",
+            "06/12/2025"
+        ],
+        [
+            "Festival de Ciências e Robótica",
+            "Kyoto, Japan",
+            "07/12/2025"
+        ],
+        [
+            "Cúpula Mundial de Sustentabilidade",
+            "Nagoya, Japan",
+            "08/12/2025"
+        ],
+        [
+            "Seminário de Marketing Estratégico",
+            "Seoul, South Korea",
+            "09/12/2025"
+        ],
+        [
+            "Congresso de Engenharia Avançada",
+            "Busan, South Korea",
+            "10/12/2025"
+        ],
+        [
+            "Summit de Transformação Digital",
+            "Incheon, South Korea",
+            "11/12/2025"
+        ],
+        [
+            "Mostra de Artes Contemporâneas",
+            "Delhi, India",
+            "12/12/2025"
+        ],
+        [
+            "Encontro de Criadores de Conteúdo",
+            "Mumbai, India",
+            "13/12/2025"
+        ],
+        [
+            "Expo Saúde e Bem-Estar",
+            "Bangalore, India",
+            "14/12/2025"
+        ],
+        [
+            "Fórum de Educação do Futuro",
+            "Hyderabad, India",
+            "15/12/2025"
+        ],
+        [
+            "Semana da Tecnologia Verde",
+            "New York, USA",
+            "16/12/2025"
+        ],
+        [
+            "Feira de Jogos e Entretenimento",
+            "Los Angeles, USA",
+            "17/12/2025"
+        ],
+        [
+            "Festival Internacional de Música",
+            "Chicago, USA",
+            "18/12/2025"
+        ],
+        [
+            "Workshop de Fotografia Profissional",
+            "Houston, USA",
+            "19/12/2025"
+        ],
+        [
+            "Conferência de Segurança Cibernética",
+            "San Francisco, USA",
+            "20/12/2025"
+        ],
+        [
+            "Simpósio de Neurociência Aplicada",
+            "Toronto, Canada",
+            "21/12/2025"
+        ],
+        [
+            "Cúpula de Comércio Internacional",
+            "Vancouver, Canada",
+            "22/12/2025"
+        ],
+        [
+            "Encontro Global de Líderes Jovens",
+            "Montreal, Canada",
+            "23/12/2025"
+        ],
+        [
+            "Mostra de Cinema Independente",
+            "Ottawa, Canada",
+            "24/12/2025"
+        ],
+        [
+            "Congresso Médico Internacional",
+            "Mexico City, Mexico",
+            "25/12/2025"
+        ],
+        [
+            "Feira de Automação Industrial",
+            "Guadalajara, Mexico",
+            "26/12/2025"
+        ],
+        [
+            "Festival de Gastronomia Mundial",
+            "Monterrey, Mexico",
+            "27/12/2025"
+        ],
+        [
+            "Conferência de Blockchain e Cripto",
+            "Rio de Janeiro, Brazil",
+            "28/12/2025"
+        ],
+        [
+            "Hackathon de Saúde Digital",
+            "São Paulo, Brazil",
+            "29/12/2025"
+        ],
+        [
+            "Fórum de Energias Renováveis",
+            "Brasília, Brazil",
+            "30/12/2025"
+        ],
+        [
+            "Semana de Arquitetura e Design",
+            "Salvador, Brazil",
+            "31/12/2025"
+        ],
+        [
+            "Encontro de Matemáticos e Estatísticos",
+            "Buenos Aires, Argentina",
+            "01/01/2026"
+        ],
+        [
+            "Simpósio de Ciências Marinhas",
+            "Córdoba, Argentina",
+            "02/01/2026"
+        ],
+        [
+            "Festival de Literatura e Poesia",
+            "Rosario, Argentina",
+            "03/01/2026"
+        ],
+        [
+            "Feira Internacional do Livro",
+            "Santiago, Chile",
+            "04/01/2026"
+        ],
+        [
+            "Summit de Inteligência Emocional",
+            "Valparaíso, Chile",
+            "05/01/2026"
+        ],
+        [
+            "Workshop de Desenvolvimento de Jogos",
+            "Lima, Peru",
+            "06/01/2026"
+        ],
+        [
+            "Encontro Nacional de Astronomia",
+            "Cusco, Peru",
+            "07/01/2026"
+        ],
+        [
+            "Conferência de Realidade Virtual",
+            "Bogotá, Colombia",
+            "08/01/2026"
+        ],
+        [
+            "Fórum de Proteção Ambiental",
+            "Medellín, Colombia",
+            "09/01/2026"
+        ],
+        [
+            "Feira de Tecnologias Agrícolas",
+            "Caracas, Venezuela",
+            "10/01/2026"
+        ],
+        [
+            "Festival de Cultura Pop",
+            "Quito, Ecuador",
+            "11/01/2026"
+        ],
+        [
+            "Congresso de Psicologia Cognitiva",
+            "Guayaquil, Ecuador",
+            "12/01/2026"
+        ],
+        [
+            "Expo Engenharia e Construção",
+            "La Paz, Bolivia",
+            "13/01/2026"
+        ],
+        [
+            "Conferência de Mobilidade Urbana",
+            "Santa Cruz, Bolivia",
+            "14/01/2026"
+        ],
+        [
+            "Encontro Global de Antropologia",
+            "Montevideo, Uruguay",
+            "15/01/2026"
+        ],
+        [
+            "Semana da Inovação Científica",
+            "Asunción, Paraguay",
+            "16/01/2026"
+        ],
+        [
+            "Summit de Comércio Eletrônico",
+            "Lagos, Nigeria",
+            "17/01/2026"
+        ],
+        [
+            "Workshop de Machine Learning",
+            "Abuja, Nigeria",
+            "18/01/2026"
+        ],
+        [
+            "Feira Internacional de Moda",
+            "Kano, Nigeria",
+            "19/01/2026"
+        ],
+        [
+            "Mostra de Invenções Criativas",
+            "Port Harcourt, Nigeria",
+            "20/01/2026"
+        ],
+        [
+            "Festival de Dança Moderna",
+            "Johannesburg, South Africa",
+            "21/01/2026"
+        ],
+        [
+            "Fórum de Jornalismo Investigativo",
+            "Cape Town, South Africa",
+            "22/01/2026"
+        ],
+        [
+            "Congresso de Direito Internacional",
+            "Durban, South Africa",
+            "23/01/2026"
+        ],
+        [
+            "Encontro de Programadores Sênior",
+            "Pretoria, South Africa",
+            "24/01/2026"
+        ],
+        [
+            "Simpósio de Astrofísica",
+            "Nairobi, Kenya",
+            "25/01/2026"
+        ],
+        [
+            "Semana da Tecnologia Aeroespacial",
+            "Mombasa, Kenya",
+            "26/01/2026"
+        ],
+        [
+            "Cúpula de Inteligência de Dados",
+            "Kigali, Rwanda",
+            "27/01/2026"
+        ],
+        [
+            "Hackathon de Segurança Digital",
+            "Addis Ababa, Ethiopia",
+            "28/01/2026"
+        ],
+        [
+            "Feira de Turismo Global",
+            "Cairo, Egypt",
+            "29/01/2026"
+        ],
+        [
+            "Festival Multicultural",
+            "Alexandria, Egypt",
+            "30/01/2026"
+        ],
+        [
+            "Encontro de Criatividade e Design",
+            "Casablanca, Morocco",
+            "31/01/2026"
+        ],
+        [
+            "Workshop de Automação Residencial",
+            "Rabat, Morocco",
+            "01/02/2026"
+        ],
+        [
+            "Conferência de Robótica Humanoide",
+            "Tunis, Tunisia",
+            "02/02/2026"
+        ],
+        [
+            "Fórum de Bioética",
+            "Algiers, Algeria",
+            "03/02/2026"
+        ],
+        [
+            "Mostra de Tecnologia Educacional",
+            "Tripoli, Libya",
+            "04/02/2026"
+        ],
+        [
+            "Summit de Biotecnologia",
+            "London, United Kingdom",
+            "05/02/2026"
+        ],
+        [
+            "Encontro Nacional de Startups",
+            "Manchester, United Kingdom",
+            "06/02/2026"
+        ],
+        [
+            "Festival de Música Eletrônica",
+            "Birmingham, United Kingdom",
+            "07/02/2026"
+        ],
+        [
+            "Congresso de Ciências Sociais",
+            "Edinburgh, United Kingdom",
+            "08/02/2026"
+        ],
+        [
+            "Feira Internacional de Inovação",
+            "Paris, France",
+            "09/02/2026"
+        ],
+        [
+            "Conferência de Computação Quântica",
+            "Marseille, France",
+            "10/02/2026"
+        ],
+        [
+            "Workshop de Escrita Criativa",
+            "Lyon, France",
+            "11/02/2026"
+        ],
+        [
+            "Encontro de Engenheiros Civis",
+            "Berlin, Germany",
+            "12/02/2026"
+        ],
+        [
+            "Semana da Consciência Ambiental",
+            "Munich, Germany",
+            "13/02/2026"
+        ],
+        [
+            "Fórum Global de Energia",
+            "Hamburg, Germany",
+            "14/02/2026"
+        ],
+        [
+            "Festival de Teatro Experimental",
+            "Frankfurt, Germany",
+            "15/02/2026"
+        ],
+        [
+            "Simpósio de Física Aplicada",
+            "Rome, Italy",
+            "16/02/2026"
+        ],
+        [
+            "Expo de Inteligência Artificial",
+            "Milan, Italy",
+            "17/02/2026"
+        ],
+        [
+            "Congresso de Agricultura Sustentável",
+            "Naples, Italy",
+            "18/02/2026"
+        ],
+        [
+            "Mostra de Arquitetura Moderna",
+            "Venice, Italy",
+            "19/02/2026"
+        ],
+        [
+            "Encontro de Desenvolvedores Mobile",
+            "Madrid, Spain",
+            "20/02/2026"
+        ],
+        [
+            "Cúpula de Big Data",
+            "Barcelona, Spain",
+            "21/02/2026"
+        ],
+        [
+            "Fórum de Ciência e Sociedade",
+            "Valencia, Spain",
+            "22/02/2026"
+        ],
+        [
+            "Festival de Cinema de Animação",
+            "Seville, Spain",
+            "23/02/2026"
+        ],
+        [
+            "Conferência de Realidade Aumentada",
+            "Lisbon, Portugal",
+            "24/02/2026"
+        ],
+        [
+            "Workshop de Data Science",
+            "Porto, Portugal",
+            "25/02/2026"
+        ],
+        [
+            "Feira de Tecnologia Marinha",
+            "Athens, Greece",
+            "26/02/2026"
+        ],
+        [
+            "Semana de Filosofia Contemporânea",
+            "Thessaloniki, Greece",
+            "27/02/2026"
+        ],
+        [
+            "Congresso de Matemática Pura",
+            "Istanbul, Turkey",
+            "28/02/2026"
+        ],
+        [
+            "Summit de Tecnologia Médica",
+            "Ankara, Turkey",
+            "01/03/2026"
+        ],
+        [
+            "Festival de Inovação Estudantil",
+            "Izmir, Turkey",
+            "02/03/2026"
+        ],
+        [
+            "Feira Global de Robótica",
+            "Bucharest, Romania",
+            "03/03/2026"
+        ],
+        [
+            "Encontro de Inteligência Artificial Ética",
+            "Cluj-Napoca, Romania",
+            "04/03/2026"
+        ],
+        [
+            "Mostra Internacional de Games",
+            "Budapest, Hungary",
+            "05/03/2026"
+        ],
+        [
+            "Fórum de Engenharia Química",
+            "Debrecen, Hungary",
+            "06/03/2026"
+        ],
+        [
+            "Conferência de Cidades Inteligentes",
+            "Warsaw, Poland",
+            "07/03/2026"
+        ],
+        [
+            "Workshop de Modelagem 3D",
+            "Krakow, Poland",
+            "08/03/2026"
+        ],
+        [
+            "Simpósio de Psicologia Organizacional",
+            "Prague, Czech Republic",
+            "09/03/2026"
+        ],
+        [
+            "Festival de Arte Digital",
+            "Brno, Czech Republic",
+            "10/03/2026"
+        ],
+        [
+            "Feira de Produtos Tecnológicos",
+            "Vienna, Austria",
+            "11/03/2026"
+        ],
+        [
+            "Congresso de Biomedicina",
+            "Graz, Austria",
+            "12/03/2026"
+        ],
+        [
+            "Summit de Cloud Computing",
+            "Zurich, Switzerland",
+            "13/03/2026"
+        ],
+        [
+            "Encontro de Programação Funcional",
+            "Geneva, Switzerland",
+            "14/03/2026"
+        ],
+        [
+            "Cúpula da Economia Criativa",
+            "Stockholm, Sweden",
+            "15/03/2026"
+        ],
+        [
+            "Fórum de Inovação Empresarial",
+            "Gothenburg, Sweden",
+            "16/03/2026"
+        ],
+        [
+            "Feira Internacional de Transportes",
+            "Oslo, Norway",
+            "17/03/2026"
+        ],
+        [
+            "Festival de Música Orquestral",
+            "Bergen, Norway",
+            "18/03/2026"
+        ],
+        [
+            "Conferência de Administração Pública",
+            "Helsinki, Finland",
+            "19/03/2026"
+        ],
+        [
+            "Encontro Global de Matemática Aplicada",
+            "Tampere, Finland",
+            "20/03/2026"
+        ],
+        [
+            "Workshop de Finanças Quantitativas",
+            "Copenhagen, Denmark",
+            "21/03/2026"
+        ],
+        [
+            "Mostra de Design Industrial",
+            "Aarhus, Denmark",
+            "22/03/2026"
+        ],
+        [
+            "Congresso de Estudos Linguísticos",
+            "Dublin, Ireland",
+            "23/03/2026"
+        ],
+        [
+            "Summit de Liderança Global",
+            "Cork, Ireland",
+            "24/03/2026"
+        ],
+        [
+            "Exposição de Arte Moderna",
+            "Edmonton, Canada",
+            "25/03/2026"
+        ],
+        [
+            "Simpósio de Inteligência Animal",
+            "Calgary, Canada",
+            "26/03/2026"
+        ],
+        [
+            "Feira de Tecnologia Industrial",
+            "Melbourne, Australia",
+            "27/03/2026"
+        ],
+        [
+            "Festival de Ciência para Jovens",
+            "Sydney, Australia",
+            "28/03/2026"
+        ],
+        [
+            "Encontro Nacional de Robótica",
+            "Brisbane, Australia",
+            "29/03/2026"
+        ],
+        [
+            "Cúpula de Tecnologias Futuras",
+            "Perth, Australia",
+            "30/03/2026"
+        ],
+        [
+            "Fórum de Inovação Acadêmica",
+            "Auckland, New Zealand",
+            "31/03/2026"
+        ],
+        [
+            "Conferência de Sistemas Distribuídos",
+            "Wellington, New Zealand",
+            "01/04/2026"
+        ],
+        [
+            "Workshop de Engenharia Aeroespacial",
+            "Suva, Fiji",
+            "02/04/2026"
+        ],
+        [
+            "Festival Internacional de Dança",
+            "Port Vila, Vanuatu",
+            "03/04/2026"
+        ],
+        [
+            "Mostra de Fotografia Artística",
+            "Apia, Samoa",
+            "04/04/2026"
+        ],
+        [
+            "Congresso de Química Orgânica",
+            "Male, Maldives",
+            "05/04/2026"
+        ],
+        [
+            "Summit de Sistemas Inteligentes",
+            "Colombo, Sri Lanka",
+            "06/04/2026"
+        ],
+        [
+            "Expo de Tecnologia Financeira",
+            "Kathmandu, Nepal",
+            "07/04/2026"
+        ],
+        [
+            "Conferência de Pesquisa Científica",
+            "Thimphu, Bhutan",
+            "08/04/2026"
+        ],
+        [
+            "Feira Internacional de Arte",
+            "Dhaka, Bangladesh",
+            "09/04/2026"
+        ],
+        [
+            "Encontro de Criadores Digitais",
+            "Kuala Lumpur, Malaysia",
+            "10/04/2026"
+        ],
+        [
+            "Simpósio de Engenharia Biomédica",
+            "Singapore, Singapore",
+            "11/04/2026"
+        ],
+        [
+            "Festival de Robótica Educacional",
+            "Jakarta, Indonesia",
+            "12/04/2026"
+        ],
+        [
+            "Fórum de Educação Digital",
+            "Bali, Indonesia",
+            "13/04/2026"
+        ],
+        [
+            "Summit Global de Pesquisa",
+            "Manila, Philippines",
+            "14/04/2026"
+        ],
+        [
+            "Workshop de Programação Avançada",
+            "Cebu, Philippines",
+            "15/04/2026"
+        ],
+        [
+            "Congresso Internacional de Física",
+            "Hanoi, Vietnam",
+            "16/04/2026"
+        ],
+        [
+            "Mostra de Tecnologia Imersiva",
+            "Ho Chi Minh City, Vietnam",
+            "17/04/2026"
+        ],
+        [
+            "Feira de Inovação Automotiva",
+            "Bangkok, Thailand",
+            "18/04/2026"
+        ],
+        [
+            "Cúpula de Engenharia Ambiental",
+            "Chiang Mai, Thailand",
+            "19/04/2026"
+        ],
+        [
+            "Encontro de Cientistas Jovens",
+            "Yangon, Myanmar",
+            "20/04/2026"
+        ],
+        [
+            "Conferência de Redes Neurais",
+            "Vientiane, Laos",
+            "21/04/2026"
+        ],
+        [
+            "Festival Internacional de Gastronomia",
+            "Phnom Penh, Cambodia",
+            "22/04/2026"
+        ],
+        [
+            "Simpósio de Tecnologia Marinha",
+            "Seville, Spain",
+            "23/04/2026"
+        ],
+        [
+            "Workshop de Segurança da Informação",
+            "Valletta, Malta",
+            "24/04/2026"
+        ],
+        [
+            "Congresso de Ciências Humanas",
+            "Monaco, Monaco",
+            "25/04/2026"
+        ],
+        [
+            "Encontro de Desenvolvimento Web",
+            "Luxembourg City, Luxembourg",
+            "26/04/2026"
+        ],
+        [
+            "Fórum de Computação Científica",
+            "Andorra la Vella, Andorra",
+            "27/04/2026"
+        ],
+        [
+            "Conferência de Meteorologia",
+            "San Marino, San Marino",
+            "28/04/2026"
+        ],
+        [
+            "Festival de Cultura Digital",
+            "Vaduz, Liechtenstein",
+            "29/04/2026"
+        ],
+        [
+            "Workshop de Criatividade e Inovação",
+            "Reykjavik, Iceland",
+            "30/04/2026"
+        ],
+        [
+            "Summit Internacional de Sustentabilidade",
+            "Havana, Cuba",
+            "01/05/2026"
+        ],
+        [
+            "Feira de Empreendedorismo",
+            "Kingston, Jamaica",
+            "02/05/2026"
+        ],
+        [
+            "Encontro de Geologia e Território",
+            "Port-au-Prince, Haiti",
+            "03/05/2026"
+        ],
+        [
+            "Mostra de Programação Visual",
+            "Nassau, Bahamas",
+            "04/05/2026"
+        ],
+        [
+            "Congresso Internacional de Química",
+            "Bridgetown, Barbados",
+            "05/05/2026"
+        ],
+        [
+            "Cúpula de Robótica Colaborativa",
+            "Roseau, Dominica",
+            "06/05/2026"
+        ],
+        [
+            "Festival de Ciências Humanas",
+            "St. George's, Grenada",
+            "07/05/2026"
+        ],
+        [
+            "Simpósio de Astronomia Observacional",
+            "Port of Spain, Trinidad and Tobago",
+            "08/05/2026"
+        ],
+        [
+            "Feira Global de Educação",
+            "Georgetown, Guyana",
+            "09/05/2026"
+        ],
+        [
+            "Workshop de Criação de Conteúdo",
+            "Paramaribo, Suriname",
+            "10/05/2026"
+        ],
+        [
+            "Fórum de Economia Verde",
+            "Belmopan, Belize",
+            "11/05/2026"
+        ],
+        [
+            "Conferência Internacional de Dados",
+            "Tegucigalpa, Honduras",
+            "12/05/2026"
+        ],
+        [
+            "Festival de Inteligência Artificial Criativa",
+            "San Salvador, El Salvador",
+            "13/05/2026"
+        ],
+        [
+            "Encontro de Nanotecnologia",
+            "Managua, Nicaragua",
+            "14/05/2026"
+        ],
+        [
+            "Summit Global de Engenharia",
+            "San Jose, Costa Rica",
+            "15/05/2026"
+        ],
+        [
+            "Mostra de Realidade Mista",
+            "Panama City, Panama",
+            "16/05/2026"
+        ],
+        [
+            "Congresso de Computação Aplicada",
+            "Baghdad, Iraq",
+            "17/05/2026"
+        ],
+        [
+            "Feira de Ciências Avançadas",
+            "Tehran, Iran",
+            "18/05/2026"
+        ],
+        [
+            "Workshop de Arte Digital",
+            "Riyadh, Saudi Arabia",
+            "19/05/2026"
+        ],
+        [
+            "Cúpula de Indústrias Criativas",
+            "Jeddah, Saudi Arabia",
+            "20/05/2026"
+        ],
+        [
+            "Fórum de Tecnologia Aplicada",
+            "Abu Dhabi, UAE",
+            "21/05/2026"
+        ],
+        [
+            "Festival de Robótica Autónoma",
+            "Dubai, UAE",
+            "22/05/2026"
+        ],
+        [
+            "Simpósio de Educação Científica",
+            "Doha, Qatar",
+            "23/05/2026"
+        ],
+        [
+            "Encontro Internacional de Biotecnologia",
+            "Muscat, Oman",
+            "24/05/2026"
+        ],
+        [
+            "Summit de Análise de Dados",
+            "Amman, Jordan",
+            "25/05/2026"
+        ],
+        [
+            "Conferência de Tecnologias Educacionais",
+            "Beirut, Lebanon",
+            "26/05/2026"
+        ],
+        [
+            "Feira de Inovação Quântica",
+            "Damascus, Syria",
+            "27/05/2026"
+        ],
+        [
+            "Workshop de Robôs Humanoides",
+            "Kuwait City, Kuwait",
+            "28/05/2026"
+        ],
+        [
+            "Congresso de Pesquisa Biológica",
+            "Sana'a, Yemen",
+            "29/05/2026"
+        ],
+        [
+            "Mostra de Projetos Inovadores",
+            "Male, Maldives",
+            "30/05/2026"
+        ],
+        [
+            "Fórum de Tecnologia 6G",
+            "Thimphu, Bhutan",
+            "31/05/2026"
+        ],
+        [
+            "Festival de Música Experimental",
+            "Honiara, Solomon Islands",
+            "01/06/2026"
+        ],
+        [
+            "Encontro Global de Designers",
+            "Port Moresby, Papua New Guinea",
+            "02/06/2026"
+        ],
+        [
+            "Summit de Computação em Nuvem",
+            "Noumea, New Caledonia",
+            "03/06/2026"
+        ],
+        [
+            "Conferência de Sistemas Inteligentes",
+            "Tarawa, Kiribati",
+            "04/06/2026"
+        ],
+        [
+            "Feira Internacional de Engenharia",
+            "Majuro, Marshall Islands",
+            "05/06/2026"
+        ],
+        [
+            "Simpósio de Ecologia Moderna",
+            "Funafuti, Tuvalu",
+            "06/06/2026"
+        ],
+        [
+            "Workshop de Programação Criativa",
+            "Palikir, Micronesia",
+            "07/06/2026"
+        ],
+        [
+            "Mostra Internacional de Arquitetura",
+            "Nuku'alofa, Tonga",
+            "08/06/2026"
+        ],
+        [
+            "Festival de Cultura Científica",
+            "Suva, Fiji",
+            "09/06/2026"
+        ],
+        [
+            "Fórum de Economia Digital",
+            "Apia, Samoa",
+            "10/06/2026"
+        ],
+        [
+            "Congresso de Neurologia",
+            "Canberra, Australia",
+            "11/06/2026"
+        ],
+        [
+            "Cúpula Global de Inovação",
+            "Hobart, Australia",
+            "12/06/2026"
+        ],
+        [
+            "Encontro de Ciência Espacial",
+            "Darwin, Australia",
+            "13/06/2026"
+        ],
+        [
+            "Expo de Tecnologia Futurista",
+            "Alice Springs, Australia",
+            "14/06/2026"
+        ],
+        [
+            "Feira de Engenharia Robótica",
+            "Wellington, New Zealand",
+            "15/06/2026"
+        ],
+        [
+            "Summit de Ciências Exatas",
+            "Christchurch, New Zealand",
+            "16/06/2026"
+        ],
+        [
+            "Conferência de Energia Limpa",
+            "Dunedin, New Zealand",
+            "17/06/2026"
+        ],
+        [
+            "Festival Internacional de Tecnologias",
+            "Hamilton, New Zealand",
+            "18/06/2026"
+        ],
+        [
+            "Workshop de Inovação Di",
+            "Beijing, China",
+            "20/12/2028"
+        ]
+    ],
+    "eventos_quant": [
+        31,
+        28,
+        31,
+        30,
+        31,
+        18,
+        0,
+        0,
+        0,
+        0,
+        0,
+        31
+    ],
+    "excluidos_quant": [
+        62,
+        56,
+        62,
+        60,
+        62,
+        36,
+        0,
+        0,
+        0,
+        0,
+        0,
+        63
+    ]
+}
